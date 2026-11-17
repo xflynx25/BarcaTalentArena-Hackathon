@@ -1,0 +1,13 @@
+# Competition data and anything made from it: never commit (the terms forbid redistribution).
+data/
+outputs/
+submissions/
+*.mp4
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv
+venv/
+.pytest_cache/
